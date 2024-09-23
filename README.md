@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorherrera10&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="victorherrera10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorherrera10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorherrera10&theme=juicyfresh" /></a> </p>
 
 - 🔭 I’m currently working on [Commy](https://github.com/Commy-Startup)
 
