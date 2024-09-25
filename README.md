@@ -1,3 +1,4 @@
+<h1 align="center">Holla 👋, Mi nombre es Victor Herrera</h1>
 <h1 align="center">Hi 👋, I'm Victor Herrera</h1>
 <h3 align="center">A passionate frontend and backend developer, with pleasure in managing software projects from Peru.</h3>
 
