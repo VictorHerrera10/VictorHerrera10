@@ -50,3 +50,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorherrera10&" alt="victorherrera10" /></p>
 
+<tr>
+  <div align='center'>
+    <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1727962439/nlqp6nive1mfgzlfgnvn.jpg"width="830" height="312">
+    </div>
+</tr>
+
