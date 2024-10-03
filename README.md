@@ -1,6 +1,6 @@
 <tr>
   <div align='center'>
-    <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1727962141/pfknmf3p8le1jjbvuetj.jpg"width="830" height="312">
+    <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1727962439/nlqp6nive1mfgzlfgnvn.jpg"width="830" height="312">
     </div>
 </tr>
  <h1 align="center">Hola 👋, Mi nombre es Victor Herrera /  Hi 👋, I'm Victor Herrera</h1>
