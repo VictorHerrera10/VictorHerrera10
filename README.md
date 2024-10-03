@@ -1,5 +1,10 @@
-<h1 align="center">Hola 👋, Mi nombre es Victor Herrera</h1>
-<h1 align="center">Hi 👋, I'm Victor Herrera</h1>
+<tr>
+  <div align='center'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
+    </div>
+</tr>
+ <h1 align="center">Hola 👋, Mi nombre es Victor Herrera /  Hi 👋, I'm Victor Herrera</h1>
+
 <h3 align="center">A passionate frontend and backend developer, with pleasure in managing software projects from Peru.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorherrera10&label=Profile%20views&color=0e75b6&style=juicyfresh" alt="victorherrera10" /> </p>
