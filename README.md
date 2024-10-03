@@ -52,7 +52,7 @@
 
 <tr>
   <div align='center'>
-    <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1727962439/nlqp6nive1mfgzlfgnvn.jpg"width="830" height="312">
+    <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1727962439/nlqp6nive1mfgzlfgnvn.jpg"width="650" height="300">
     </div>
 </tr>
 
